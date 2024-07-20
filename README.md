@@ -6,4 +6,4 @@
 5. Move the files there
 6. Restart Firefox
 
-[This is a modified version of Bali10050 FirefoxCSS Chrome file](https://github.com/Bali10050/FirefoxCSS/assets/110120798/c930d31f-22c2-4500-9877-0f1e28ea45c5)
+[](https://github.com/Bali10050/FirefoxCSS/assets/110120798/c930d31f-22c2-4500-9877-0f1e28ea45c5)
